@@ -2,22 +2,10 @@
 
 ## Get Started
 
-bun
-
-```
-bun install; bun run dev
-```
-
 yarn
 
 ```
 yarn; yarn dev
-```
-
-npm
-
-```
-npm install; npm run start
 ```
 
 > Will add more details to readme soon
